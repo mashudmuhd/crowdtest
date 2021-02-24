@@ -9331,3 +9331,8 @@ div#slider figure {
   animation: 15s slidy infinite;  
 }
 
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
